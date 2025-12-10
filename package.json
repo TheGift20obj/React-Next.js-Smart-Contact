@@ -14,5 +14,10 @@
   "type": "module",
   "workspaces": [
     "src/my_dapp_rust_frontend"
-  ]
+  ],
+  "dependencies": {
+    "@dfinity/agent": "^3.4.3",
+    "@dfinity/auth-client": "^3.4.3",
+    "@dfinity/candid": "^3.4.3"
+  }
 }
