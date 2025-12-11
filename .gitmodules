@@ -1,0 +1,3 @@
+[submodule "frontend_next_react"]
+	path = frontend_next_react
+	url = https://github.com/TheGift20obj/frontend_next_react
